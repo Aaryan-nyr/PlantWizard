@@ -1,1 +1,2 @@
-This website was built as one part for a prototyping course.
+This website was built was built for a prototyping project.
+
