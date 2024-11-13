@@ -2,7 +2,7 @@
 
 This is a prototyping project is designed to notify users when their plants have low water levels. The project consisted of a physical device placed in a the plant's pot, which monitors soil moisture levels. The goal was to send the real-time data from the device to the website, but due to time constraints, this was not implemented in the final version of the prototype.
 
-The website is coded in **Typescript**, taking advantage of **Next.js** and **React** for a fast and responsive user-interface. Styling was handled with **Tailiwnid CSS** and Flexbox to create flexible responsive containers. The backend utilizes **Firebase** to enable authentication and real-time data handling. 
+The website is coded in **Typescript**, taking advantage of **Next.js** and **React** for a fast and responsive user-interface. Styling was handled with **Tailwind CSS** and Flexbox to create flexible responsive containers. The backend utilizes **Firebase** to enable authentication and real-time data handling. 
 
 The application allows users to view detailed information about their plants in each room of their house.
 The information displayed includes:
